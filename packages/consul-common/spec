@@ -1,0 +1,4 @@
+---
+name: consul-common
+files:
+- common/utils.sh
